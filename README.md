@@ -31,7 +31,8 @@ This project demonstrates a simulated SSO (Single Sign-On) integration between *
 | ![1](images/okta_app_config.png) | Okta SAML App Configuration |
 | ![2](images/github_sso_config.png) | GitHub Enterprise SSO Configuration |
 | ![3](images/okta_app_saml_certficiate_and_mfa.png) | SAML Certificates and MFA Authentication |
-| ![4](images/saml_assertion.png) | Sample SAML Assertion from Okta |
+| ![4](images/okta_app_saml_example) | Sample SAML Assertion from Okta |
+| ![5](images/okta_app_logs_example) | Okta Logs |
 
 ---
 

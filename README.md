@@ -38,8 +38,6 @@ This project demonstrates a simulated SSO (Single Sign-On) integration between *
 
 ## 📋 Step-by-Step Configuration
 
-Full instructions available in [`steps.md`](./steps.md)
-
 1. Create a new SAML 2.0 app in Okta.
 2. Enter the GitHub ACS (Assertion Consumer Service) URL.
 3. Download the metadata XML from Okta.
@@ -51,13 +49,13 @@ Full instructions available in [`steps.md`](./steps.md)
 
 ## 🧪 SAML Assertion Sample
 
-Check [`saml_assertion_example.xml`](./saml_assertion_example.xml) for a decoded assertion.
+Check [`saml_assertion_example.xml`](okta_app_saml_assertion_example.xml) for a decoded assertion.
 
 ---
 
 ## 📈 Flow Diagram
 
-![diagram](flow_diagram.png)
+![diagram](okta-github-sso-flow.jpg)
 
 ---
 

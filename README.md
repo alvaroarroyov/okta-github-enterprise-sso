@@ -21,6 +21,7 @@ This project demonstrates a simulated SSO (Single Sign-On) integration between *
 - ✅ SAML 2.0
 - ✅ XML 
 - ✅ Draw.io (for diagrams)
+- ✅ SAML, WS-Federation and OAuth tracer extension for browser
 
 ---
 
@@ -55,7 +56,7 @@ Check [`saml_assertion_example.xml`](okta_app_saml_assertion_example.xml) for a 
 
 ## 📈 Flow Diagram
 
-![diagram](okta-github-sso-flow.jpg)
+![diagram](okta_github_sso_flow.jpg)
 
 ---
 

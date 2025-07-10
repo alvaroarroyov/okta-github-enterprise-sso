@@ -56,7 +56,7 @@ Check [`saml_assertion_example.xml`](okta_app_saml_assertion_example.xml) for a 
 
 ## 📈 Flow Diagram
 
-![diagram](okta_github_sso_flow.jpg)
+![diagram](okta_github_sso_flow.png)
 
 ---
 

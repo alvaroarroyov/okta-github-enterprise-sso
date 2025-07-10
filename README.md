@@ -19,7 +19,7 @@ This project demonstrates a simulated SSO (Single Sign-On) integration between *
 - ✅ Okta Admin Console (Free Developer Account)
 - ✅ GitHub Enterprise (simulated setup)
 - ✅ SAML 2.0
-- ✅ XML / JWT
+- ✅ XML 
 - ✅ Draw.io (for diagrams)
 
 ---
@@ -30,7 +30,7 @@ This project demonstrates a simulated SSO (Single Sign-On) integration between *
 |------|-------------|
 | ![1](images/okta_app_config.png) | Okta SAML App Configuration |
 | ![2](images/github_sso_config.png) | GitHub Enterprise SSO Configuration |
-| ![3](images/sso_login.png) | Login Flow in Action |
+| ![3](images/okta_app_saml_certficiate_and_mfa.png) | SAML Certificates and MFA Authentication |
 | ![4](images/saml_assertion.png) | Sample SAML Assertion from Okta |
 
 ---

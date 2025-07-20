@@ -1,6 +1,6 @@
 # 🔐 Okta + GitHub Enterprise SSO Integration
 
-This project demonstrates a simulated SSO (Single Sign-On) integration between **Okta** and **GitHub Enterprise** using **SAML 2.0**. It includes screenshots, SAML assertion samples, and a complete configuration walkthrough.
+This project demonstrates a SSO (Single Sign-On) integration between **Okta** and **GitHub Enterprise** using **SAML 2.0**. It includes screenshots, SAML assertion samples, and a complete configuration walkthrough.
 
 ---
 
